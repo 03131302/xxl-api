@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  	<title>API管理平台</title>
+  	<title>河南油田工程咨询股份有限公司API管理平台</title>
     <link rel="shortcut icon" href="${request.contextPath}/static/favicon.ico" type="image/x-icon" />
   	<#import "../common/common.macro.ftl" as netCommon>
     <link rel="stylesheet" href="${request.contextPath}/static/adminlte/plugins/select2/select2.min.css">
